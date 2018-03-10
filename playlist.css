@@ -1,0 +1,150 @@
+body {
+  background-color: lightgrey;
+}
+
+#header {
+  background-color: olive;
+  height: 50px;
+  border-bottom: black 100px;
+  margin: 0px;
+  padding: 0px;
+
+}
+/* .parent {
+  position: relative;
+}
+.img-overlay {
+  position: relative;
+  height: 10px;
+} */
+
+.front_page_pics {
+  margin-top: -725px;
+  margin-left: 175px;
+
+}
+
+.img-responsive {
+
+  height: 753px;
+  width: 3100px;
+  z-index: -1;
+}
+
+.bottom-left {
+  height: 220px;
+  /* margin-top: -1250px; */
+  /* margin-left: 130px; */
+}
+#pink_floyd {
+  position: inherit;
+  padding: 10px;
+  height: 225px;
+}
+.centered {
+  height: 225px;
+  position: inherit;
+  padding: 10px;
+  /*margin-top: -800px; */
+  /* margin-left: 130px; */
+}
+
+#adele {
+  height: 225px;
+  padding: 10px;
+  /* margin-top: -350px; */
+  /* margin-left: 130px; */
+}
+
+#faded_track {
+  padding-right: 0px;
+  height: 753px;
+  width: 3100px;
+  z-index: -1;
+  /* z-index: -100; */
+}
+
+.col-md-6 {
+  padding-right: 0px;
+}
+
+#track_bin {
+  margin-top: 300px;
+  margin-left: 140px;
+  font-size: 60px;
+  color: indigo;
+  font-weight: 300;
+}
+
+#choose_track_button {
+  margin-left: 143px;
+  font-size: 38px;
+  background-color: olive;
+  color: white;
+}
+
+#footer {
+  background-color:olive;
+}
+
+.font-weight-light {
+  font-weight: lighter;
+}
+
+.rounded {
+  border-radius: 10px;
+}
+
+/* Second Page */
+#header2 {
+  background-color: olive;
+  height: 175px;
+  border-bottom: black 100px;
+  margin: -8px;
+  padding: -8px;
+  font-size: 30px;
+}
+h4 {
+  margin-left: 40px;
+  color: white;
+  font-size: 40px;
+  padding-top: 100px;
+}
+.row {
+  /* background-color: pink; */
+  margin: -8px;
+  padding: -8px;
+}
+
+.secondpage_pictures {
+ height: 130px;
+ margin-top: 15px;
+ margin-left: 35px;
+}
+
+.form-control {
+  margin-top: 100px;
+  margin-left: 210px;
+  margin-right: 100px;
+  width: 500px;
+  height: 900px;
+
+}
+.text-box {
+  height: 900px;
+}
+
+.bottom-buttons {
+  /* padding: 0px;
+  margin-left: 50px;
+  margin-right: 50px; */
+  margin-top: 30px;
+  padding-left: -20px;
+  margin-left: 0px;
+}
+
+#cleartrack {
+  margin-left: 200px;
+  margin-right: 0px;
+  /* background-color: olive; */
+}
