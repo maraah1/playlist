@@ -10,13 +10,6 @@ body {
   padding: 0px;
 
 }
-/* .parent {
-  position: relative;
-}
-.img-overlay {
-  position: relative;
-  height: 10px;
-} */
 
 .front_page_pics {
   margin-top: -725px;
@@ -33,9 +26,8 @@ body {
 
 .bottom-left {
   height: 220px;
-  /* margin-top: -1250px; */
-  /* margin-left: 130px; */
 }
+
 #pink_floyd {
   position: inherit;
   padding: 10px;
@@ -45,15 +37,11 @@ body {
   height: 225px;
   position: inherit;
   padding: 10px;
-  /*margin-top: -800px; */
-  /* margin-left: 130px; */
 }
 
 #adele {
   height: 225px;
   padding: 10px;
-  /* margin-top: -350px; */
-  /* margin-left: 130px; */
 }
 
 #faded_track {
@@ -61,7 +49,6 @@ body {
   height: 753px;
   width: 3100px;
   z-index: -1;
-  /* z-index: -100; */
 }
 
 .col-md-6 {
@@ -95,7 +82,6 @@ body {
   border-radius: 10px;
 }
 
-/* Second Page */
 #header2 {
   background-color: olive;
   height: 175px;
@@ -111,7 +97,6 @@ h4 {
   padding-top: 100px;
 }
 .row {
-  /* background-color: pink; */
   margin: -8px;
   padding: -8px;
 }
@@ -135,9 +120,6 @@ h4 {
 }
 
 .bottom-buttons {
-  /* padding: 0px;
-  margin-left: 50px;
-  margin-right: 50px; */
   margin-top: 30px;
   padding-left: -20px;
   margin-left: 0px;
@@ -146,5 +128,4 @@ h4 {
 #cleartrack {
   margin-left: 200px;
   margin-right: 0px;
-  /* background-color: olive; */
 }
